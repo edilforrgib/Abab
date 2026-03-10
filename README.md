@@ -218,4 +218,30 @@ Glossy • Reflective • Waterproof
 
 <h2>📞 Order Now</h2>
 
-<p>☎️ 092030
+<p>☎️ 0920300011 / 0991109365</p>
+
+<p>🚖 በፍጥነት ይዘዙን ባሉበት ቦታ ያለምንም ተጨማሪ ክፍያ እናደርሳለን</p>
+
+<p>📲 Telegram: @Nigatmelody</p>
+
+<p>🏢 አድራሻ : ኮልፌ 18 አጠናተራ ፊሊጶስ ቤተክርስቲያን ዝቅ ብሎ</p>
+
+<button onclick="window.location.href='tel:0920300011'">
+
+Order Now
+
+</button>
+
+</section>
+
+
+<footer>
+
+© 2026 ንጋት የዜማ መሳሪያዎች
+
+</footer>
+
+</div>
+
+</body>
+</html>
